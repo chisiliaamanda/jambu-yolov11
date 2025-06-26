@@ -1,0 +1,4 @@
+touch weights/.gitkeep
+git add weights/.gitkeep
+git commit -m "Add .gitkeep so weights folder exists in Streamlit"
+git push origin main
